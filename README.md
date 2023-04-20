@@ -4,3 +4,5 @@ This script might be usefull for quick and clean installation of Adb&Fastboot to
 
 Pros:
   - Has a valid and official deamon running on your machine. It's a full installation of Adb&Fastboot protocols.
+  - Easy installation: this tool doesn't require any user input. Drivers are installed automatically.
+  - Automatic Updates: by re-executing the script, all files and drivers will be updated.
